@@ -1225,7 +1225,7 @@ pre {
     .l-navbar_t-dark .menuzord-menu > li > a,
     .l-navbar_t-semi-trans .menuzord-menu > li > a,
     .l-navbar_t-dark-trans .menuzord-menu > li > a {
-        color: #fff;
+        color: #000;
     }
     .l-navbar_t-semi-trans {
         background: rgba(10, 10, 10, .5);
