@@ -12,11 +12,6 @@ var HomePage = {
   computed: {}
 };
 
-var app = new Vue({
-  el: "#vue-app",
-  router: router
-});
-
 // End Homepage component
 
 // Begin About Page component
@@ -37,7 +32,7 @@ var AboutPage = {
 
 // Begin Portfolio Page component
 
-var HomePage = {
+var PortfolioPage = {
   template: "#portfolio-page",
   data: function() {
     return {
@@ -53,7 +48,7 @@ var HomePage = {
 
 // Begin Blog component
 
-var HomePage = {
+var BlogPage = {
   template: "#blog-page",
   data: function() {
     return {
@@ -69,7 +64,7 @@ var HomePage = {
 
 // Begin Contact Component
 
-var HomePage = {
+var ContactPage = {
   template: "#contact-page",
   data: function() {
     return {
