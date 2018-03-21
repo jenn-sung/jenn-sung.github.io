@@ -2373,7 +2373,7 @@ body {
 
 .parallax-inner {
     padding: 150px 0;
-    background-color: #e7e5f0;
+    background-color: #fff;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 50%; 
@@ -2382,7 +2382,7 @@ body {
 
 .banner-state {
     height: 100vh;
-    background-color: #e7e5f0;
+    background-color: #fff;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 50%; 
