@@ -26,6 +26,12 @@ Default theme  Stylesheet
     text-shadow: none;
 }
 
+#img-jenn{
+    float: left;
+    margin-left: 30px;
+
+}
+
 a,
 .menuzord-menu > li.active > a,
 .menuzord-menu > li:hover > a,

@@ -2391,9 +2391,9 @@ body {
 
 .full-banner {
     position: relative;
-    background-image: url("../img/banner/creative-banner.jpg");
     background-position: 50% 50%; 
     background-size: cover;
+    background-color: #e7e5f0;
 }
 
 .page-content {
