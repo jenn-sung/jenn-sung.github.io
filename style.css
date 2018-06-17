@@ -2087,8 +2087,8 @@ ul.layout-switcher li a.active {
     color: #aaa;
     background: none;
     border: 2px solid #aaa;
-    width: 30px;
-    height: 30px !important;
+    width: 40px;
+    height: 40px !important;
     line-height: 1;
     font-size: 12px;
     -webkit-transition: all 200ms ease-in;
@@ -2334,6 +2334,7 @@ ul.layout-switcher li a.active {
 .social a:hover i {
     color: #FFF
 }
+
 /*-----------------------------------------------------------------------------------*/
 /*	20. FORMS
 /*-----------------------------------------------------------------------------------*/
