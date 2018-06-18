@@ -8,13 +8,13 @@
     border-top: 3px solid rgba(116,152,188,.8) !important;
 }
 a {
-    color: #7498bc;
+    color: #d6b161;
 }
 .post-title a:hover {
-    color: #7498bc
+    color: #d6b161
 }
 ul.circled li:before {
-    color: #7498bc;
+    color: #d6b161;
 }
 .btn:hover,
 .btn:focus,
@@ -26,8 +26,8 @@ ul.circled li:before {
 .pagination ul > .active > span,
 .open >.dropdown-toggle.btn-default,
 .btn.cbp-filter-item-custom-active {
-    border: 2px solid #7498bc;
-    color: #7498bc !important;
+    border: 2px solid #d6b161;
+    color: #d6b161 !important;
 }
 .btn-green:hover,
 .btn-green:focus,
@@ -67,106 +67,106 @@ ul.circled li:before {
 .nav > li > a:hover,
 .nav > li.current > a {
     background: none;
-    color: #7498bc !important;
+    color: #d6b161 !important;
 }
 .services-1 .icon i.icn {
-    color: #7498bc;
+    color: #d6b161;
 }
 .services-2 i {
-    color: #7498bc;
+    color: #d6b161;
 }
 .services-2 a:hover {
-    color: #7498bc !important
+    color: #d6b161 !important
 }
 .services-3 i {
-    color: #7498bc;
+    color: #d6b161;
 }
 .progress-list li em {
-    color: #7498bc;
+    color: #d6b161;
 }
 .progress.plain {
-    border: 1px solid #7498bc;
+    border: 1px solid #d6b161;
 }
 .progress.plain .bar {
-    background: #7498bc;
+    background: #d6b161;
 }
 .tabs-top .tab a:hover,
 .tabs-top .tab.active a {
-    color: #7498bc;
-    border-color: #7498bc;
+    color: #d6b161;
+    border-color: #d6b161;
 }
 .panel-title:hover,
 .panel-active .panel-heading .panel-title {
-    border: 2px solid #7498bc
+    border: 2px solid #d6b161
 }
 .panel-title > a:hover,
 .panel-active a {
-    color: #7498bc
+    color: #d6b161
 }
 .tooltip-inner {
-    background-color: #7498bc;
+    background-color: #d6b161;
 }
 .tooltip.top .tooltip-arrow,
 .tooltip.top-left .tooltip-arrow,
 .tooltip.top-right .tooltip-arrow {
-    border-top-color: #7498bc
+    border-top-color: #d6b161
 }
 .tooltip.right .tooltip-arrow {
-    border-right-color: #7498bc
+    border-right-color: #d6b161
 }
 .tooltip.left .tooltip-arrow {
-    border-left-color: #7498bc
+    border-left-color: #d6b161
 }
 .tooltip.bottom .tooltip-arrow,
 .tooltip.bottom-left .tooltip-arrow,
 .tooltip.bottom-right .tooltip-arrow {
-    border-bottom-color: #7498bc
+    border-bottom-color: #d6b161
 }
 .hint:after,
 [data-hint]:after {
-    background: #7498bc;
+    background: #d6b161;
 }
 .hint--top:before {
-    border-top-color: #7498bc
+    border-top-color: #d6b161
 }
 .hint--bottom:before {
-    border-bottom-color: #7498bc
+    border-bottom-color: #d6b161
 }
 .hint--left:before {
-    border-left-color: #7498bc
+    border-left-color: #d6b161
 }
 .hint--right:before {
-    border-right-color: #7498bc
+    border-right-color: #d6b161
 }
 .cbp-popup-singlePage .cbp-popup-prev:hover:before,
 .cbp-popup-singlePage .cbp-popup-next:hover:before,
 .cbp-popup-singlePage .cbp-popup-close:hover:before,
 .cbp-popup-singlePageInline .cbp-popup-close:hover:before {
-    border: 2px solid #7498bc !important;
-    color: #7498bc !important;
+    border: 2px solid #d6b161 !important;
+    color: #d6b161 !important;
 }
 .sp-selected-thumbnail {
-    border-bottom: 3px solid #7498bc
+    border-bottom: 3px solid #d6b161
 }
 .meta a:hover {
-    color: #7498bc
+    color: #d6b161
 }
 .sidebox a:hover {
-    color: #7498bc !important
+    color: #d6b161 !important
 }
 ul.layout-switcher li a.active {
-    color: #7498bc;
-    border-color: #7498bc;
+    color: #d6b161;
+    border-color: #d6b161;
 }
 #comments .info h2 a:hover {
-    color: #7498bc
+    color: #d6b161
 }
 #comments a.reply-link:hover {
-    color: #7498bc
+    color: #d6b161
 }
 .contact-info li a:hover {
-    color: #7498bc
+    color: #d6b161
 }
 .pricing .plan h4 span {
-    color: #7498bc
+    color: #d6b161
 }

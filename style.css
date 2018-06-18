@@ -745,16 +745,19 @@ section.naked {
 }
 .services-1 .icon {
     display: table
+
 }
 .services-1 .row  .icon {
     float: left;
     margin-right: 20px;
+    color: #d6b161;
 }
 .services-1 .row .text {
-    overflow: hidden
+    overflow: hidden;
+    
 }
 .services-1 .icon i.icn {
-    color: #9cbc68;
+    
     line-height: 1;
     font-size: 40px;
     text-transform: uppercase;
@@ -3258,6 +3261,7 @@ textarea {
 	}
 	.services-1 .divide30 {
 	    display: none
+
 	}
 	.blog .sidebar {
 	    padding-left: 15px
