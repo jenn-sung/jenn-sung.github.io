@@ -59,9 +59,14 @@ figure {
     padding: 0;
 }
 figure img {
+    height: 500px;
+    width: 900px;
+    max-width: 100%;
+}
+figure-1 img {
     height: 326px;
     width: 149px;
-    /*max-width: 100%;*/
+    max-width: 100%;
 }
 iframe {
     border: none

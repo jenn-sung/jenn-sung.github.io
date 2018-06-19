@@ -1,7 +1,7 @@
 <?php
 include('SMTPClass.php');
 
-$use_smtp = '0';
+$use_smtp = '1';
 $emailto = 'jennsungdevelops@gmail.com';
 
 	// retrieve from parameters
