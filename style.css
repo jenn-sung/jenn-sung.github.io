@@ -1310,13 +1310,13 @@ figure a .text-overlay .info span {
     position: relative
 }
 .revolution .large {
-    font-size: 44px;
+    font-size: 50px;
     font-weight: 700;
     margin-bottom: 30px;
     color: #FFF;
 }
 .revolution .small {
-    font-size: 22px;
+    font-size: 30px;
     letter-spacing: 0.3px;
     font-family: 'Libre Baskerville', serif;
     font-style: italic;
