@@ -235,6 +235,7 @@ h1.post-title {
 }
 .lead {
     font-size: 18px;
+    color: #d6b161;
     line-height: 30px;
     letter-spacing: 0.3px;
     font-family: 'Libre Baskerville', serif;
@@ -451,6 +452,9 @@ video {
 #map {
     width: 100%;
     height: 325px;
+}
+strong {
+    color: #d6b161;
 }
 /*-----------------------------------------------------------------------------------*/
 /*	02. BUTTON
