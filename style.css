@@ -132,6 +132,7 @@ body {
     margin: -20px 0 0 -20px;
 }
 .spinner {
+    color: #d6b161;
     height: 40px;
     width: 40px;
     position: relative;
@@ -1168,7 +1169,8 @@ figure a .text-overlay .info span {
 /*	12. CUBE PORTFOLIO
 /*-----------------------------------------------------------------------------------*/
 .card {
-    padding-bottom: 30px;
+    padding-bottom: 40px;
+    border: 2em;
 }
 
 #filters-container {
