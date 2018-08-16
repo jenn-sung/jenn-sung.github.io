@@ -458,6 +458,11 @@ strong {
     color: #d6b161;
 }
 
+image.preview  {
+    width: 1334px;
+    height: 642px;
+}
+
 body.modal-open {
     overflow: visible;
 }
