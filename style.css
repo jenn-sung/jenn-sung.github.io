@@ -470,6 +470,7 @@ body.modal-open {
 
 .modal-footer {
     text-align: left;
+    color: red;
 }
 
 .img-thumbnail {
@@ -477,24 +478,16 @@ body.modal-open {
     border: none;
 }
 
-.carousel-inner img {
-  margin: auto;
+.row.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+.row.no-gutters > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
-.carousel .left > i,
-.carousel .right > i {
-  position: absolute;
-  left: 20px;
-  top: 50%;
-  transform: translateY(-50%);
-}
-.carousel .right > i {
-  left: auto;
-  right: 20px;
-}
-.modal-footer {
-    color: gray;
-}
 
 /*-----------------------------------------------------------------------------------*/
 /*	02. BUTTON
