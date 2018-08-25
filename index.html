@@ -39,7 +39,7 @@
         <li class="current"><a href="#home" class="hint--right" data-hint="Home"><i class="budicon-home"></i><span>Home</span></a></li>
         <li><a href="#about" class="hint--right" data-hint="About"><i class="budicon-author"></i><span>About</span></a></li>
         <li><a href="#portfolio" class="hint--right" data-hint="Portfolio"><i class="budicon-image-4"></i><span>Portfolio</span></a></li>
-        <li><a href="#hobbies" class="hing-right" data-hint="Hobbies"><i class="budicon-heart"></i>"
+        <li><a href="#hobbies" class="hing-right" data-hint="Hobbies"><i class="budicon-heart"></i><span>Hobbies</span></a></li>
         <li><a href="#contact" class="hint--right" data-hint="Contact"><i class="budicon-mail-1"></i><span>Contact</span></a></li>
         <!-- <li><a href="#elsewhere" class="hint--right fancybox-inline" data-hint="Elsewhere" data-fancybox-width="325" data-fancybox-height="220"><i class="icon-heart-empty-1"></i><span>Elsewhere</span></a></li> -->
       </ul>
@@ -216,6 +216,7 @@
     <section id="portfolio" class="portfolio">
       <div class="box">
         <h2 class="section-title pull-left">Portfolio</h2>
+
         <!-- <div id="filters-container" class="cbp-l-filters-alignRight pull-right">
           <div data-filter="*" class="cbp-filter-item-custom-active cbp-filter-item-custom btn">All</div>
           <div data-filter=".capstone" class="cbp-filter-item-custom btn">Capstone</div>
@@ -223,7 +224,6 @@
         </div> -->
         <!-- /#filters-container -->
         <div class="clearfix"></div>
-          <div class="row">
             <div class="card text-center">
               <a href="#responsive" class="pop">
                 <p>Acutalize CRM</p>
@@ -244,7 +244,6 @@
                 </div>       
               </div>
             </div>
-          </div>
             <div class="row">
               <div class="card text-center">
               <a href="#responsive" class="pop">
@@ -267,8 +266,9 @@
               </div>
             </div>
           </div>
-        </div>
-      <!-- /.box --> 
+       
+      <!-- /.box -->
+    </div>
     </section>
     <!-- /#portfolio -->
 
@@ -278,21 +278,20 @@
       <div class="clearfix"></div>
         <h3 class="section-title">Life Outside Programming</h3>
        
-            <p>While not at the computer, you can find me taking photos, going to shows, traveling, reading, or cooking. Find out more below. Below are several photos I've taken with my Nikon D3400 over the past year.</p>
+            <p>While not at the computer, you can find me going to shows, traveling, reading, practicing photograpy or cooking. Below is a playlist of music that I'm currently listening to.</p>
 
-              <div class="container">
-                <div class="row">
-                  <div class=iv class="row">
+            <div class="container">
+            
+
+          
                     <div class="col-sm-2 col-sm-4"><img src="/style/images/art/white_flower.jpg" class="img-thumbnail"></div>
                     <div class="col-sm-2 col-sm-4"><img src="/style/images/art/pink-flowers.jpg" class="img-thumbnail"></div>
                     <div class="col-sm-2 col-sm-4"><img src="/style/images/art/delicate.jpg" class="img-thumbnail"></div>
-                  </div>
-                  <div class="row">
                     <div class="col-sm-2 col-sm-5"><img src="/style/images/art/yellow-flowers.jpg" class="img-thumbnail"></div>
                     <div class="col-sm-2 col-sm-5"><img src="/style/images/art/cow.jpg" class="img-thumbnail"></div>
-                </div>
-              </div>
+          
       </div>
+    </div>
     </section>
     
     <section id="contact">
@@ -381,7 +380,8 @@
   </div>
   <!-- /.container --> 
 </div>
-<!-- /.body-wrapper --> 
+<!-- /.body-wrapper -->
+<script src="js/bootstrap-modal-carousel.js"/></script/> 
 <script src="style/js/jquery.min.js"></script> 
 <script src="style/js/bootstrap.min.js"></script> 
 <script src="style/js/jquery.themepunch.tools.min.js"></script> 
@@ -398,5 +398,11 @@
     $(this).parent().find('.modal').modal('show')
 });
 </script>
+ <script>
+  s$('#myCarousel').on('slide.bs.carousel', function () {
+  // do something…
+})
+</script>
+
 </body>
 </html>

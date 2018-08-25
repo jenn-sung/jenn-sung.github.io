@@ -471,10 +471,27 @@ body.modal-open {
     text-align: left;
 }
 
-.img-thumbnail{
+.img-thumbnail {
     background: transparent;
     border: none;
 }
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.carousel .left > i,
+.carousel .right > i {
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.carousel .right > i {
+  left: auto;
+  right: 20px;
+}
+share
 
 /*-----------------------------------------------------------------------------------*/
 /*	02. BUTTON
