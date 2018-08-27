@@ -510,6 +510,13 @@ transition:all .4s linear;
 transform:scale(1.2);
 }
 
+.ul {
+  list-style: none;
+}
+
+.book {
+   color: #d6b161;
+}
 
 /*-----------------------------------------------------------------------------------*/
 /*	02. BUTTON
