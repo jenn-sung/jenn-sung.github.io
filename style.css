@@ -154,7 +154,7 @@ body {
     overflow-x: hidden;
     background: #1e1e1f;
     color: #e0e0e0;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -211,6 +211,7 @@ h2 {
     line-height: 28px;
     color: #d6b161;
 }
+
 h3 {
     font-size: 20px;
     line-height: 24px;
@@ -236,7 +237,7 @@ h1.post-title {
     line-height: 28px;
 }
 .lead {
-    font-size: 18px;
+    font-size: 20px;
     color: #d6b161;
     line-height: 30px;
     letter-spacing: 0.3px;
@@ -272,7 +273,8 @@ h1.post-title {
     padding-bottom: 70px;
 }
 ul {
-    padding: 0 0 0 18px
+    list-style: none;
+    padding: 0 0 0 0px
 }
 ol {
     padding: 0 0 0 20px
@@ -459,17 +461,6 @@ strong {
     color: #d6b161;
 }
 
-image.preview  {
-    width: 1334px;
-    height: 642px;
-
-}
-
-.img-fluid {
-    max-width: 100%
-    height: auto;
-}
-
 
 body.modal-open {
     overflow: visible;
@@ -477,7 +468,8 @@ body.modal-open {
 
 .modal-footer {
     text-align: left;
-    color: red;
+    color: #d6b161;
+    background-color: #2B2B2C;
 }
 
 .img-thumbnail {
@@ -525,10 +517,7 @@ transform:scale(1.2);
    color: #d6b161;
 }
 
-/*.iframe {
-    text-align: right;
-}
-*/
+
 /*-----------------------------------------------------------------------------------*/
 /*	02. BUTTON
 /*-----------------------------------------------------------------------------------*/
@@ -807,7 +796,7 @@ section {
     background: rgba(30,30,31,0.85);
 }
 section .box {
-    padding: 50px
+    padding: 60px;
 }
 section.naked {
     background: none;
