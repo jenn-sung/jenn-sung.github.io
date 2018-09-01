@@ -509,10 +509,6 @@ transition:all .4s linear;
 transform:scale(1.2);
 }
 
-.ul {
-  list-style: none;
-}
-
 .book {
    color: #d6b161;
 }
@@ -796,7 +792,7 @@ section {
     background: rgba(30,30,31,0.85);
 }
 section .box {
-    padding: 60px;
+    padding: 40px;
 }
 section.naked {
     background: none;
